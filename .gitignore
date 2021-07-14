@@ -1,0 +1,9 @@
+# Trained models
+trained_models/*
+
+#Pycharm
+.idea/*
+
+#jupyter
+.ipynb_checkpoints/*
+__pycache__/*
