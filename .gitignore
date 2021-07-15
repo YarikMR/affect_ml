@@ -1,5 +1,6 @@
 # Trained models
 trained_models/*
+preprocess_dataset/*
 
 #Pycharm
 .idea/*
@@ -7,3 +8,4 @@ trained_models/*
 #jupyter
 .ipynb_checkpoints/*
 __pycache__/*
+
